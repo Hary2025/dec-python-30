@@ -8,7 +8,7 @@ if name == "ayush":
     
 else:
     print("Hello, " + name + " thank you so much comming in today.")
-menu="afredo, espresso, black cofee, frappe"
+menu="afredo, espresso, black cofee, frappe, tea"
 
 print("Hello " + name + " What would you like to order?.\nHere is what we have today's menu\n " + menu )
 order =input("")
