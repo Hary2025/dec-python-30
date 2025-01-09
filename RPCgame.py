@@ -1,4 +1,5 @@
 import random
+#Usse dictionary!!!!!!!
 print(" Game Rule\n Type 0 for Rock, Type 1 for Paper, AND Type 2 for Scissor")
 user_choice=int(input("Enter your Choice:"))
 
